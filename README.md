@@ -10,9 +10,17 @@ An exploratory data analysis of the classic Iris dataset. This project involves 
 
 ### Visualizations
 
-| Sepal Length vs. Width | Feature Distributions | Outlier Detection |
-| :---: | :---: | :---: |
-| ![Sepal Length vs Sepal Width](./Task%201%20-%20Iris%20Dataset%20EDA/Figure_1.png) | ![Feature Distributions](./Task%201%20-%20Iris%20Dataset%20EDA/Figure_2.png) | ![Feature Outlier Detection](./Task%201%20-%20Iris%20Dataset%20EDA/length.png) |
+**Sepal Length vs. Width**
+
+<img src="./Task%201%20-%20Iris%20Dataset%20EDA/Figure_1.png" width="800">
+
+**Feature Distributions**
+
+<img src="./Task%201%20-%20Iris%20Dataset%20EDA/Figure_2.png" width="800">
+
+**Outlier Detection**
+
+<img src="./Task%201%20-%20Iris%20Dataset%20EDA/length.png" width="800">
 
 ---
 
@@ -24,7 +32,7 @@ A time-series forecasting project to predict the next-day closing price of Tesla
 
 **Actual vs. Predicted Closing Prices**
 
-![Actual vs. Predicted Closing Prices](./Task%202%20-%20Stock%20Price%20Prediction/Figure_1.png)
+<img src="./Task%202%20-%20Tesla%20Stock%20Price%20Prediction/Figure_1.png" width="1000">
 
 ---
 
@@ -34,12 +42,22 @@ A classification project to predict the presence of heart disease using a logist
 
 ### Visualizations
 
-| Heart Disease Presence | Correlation Heatmap |
-| :---: | :---: |
-| ![Heart Disease Presence](./Task%203%20-%20Heart%20Disease%20Model/Figure_1.png) | ![Correlation Heatmap](./Task%203%20-%20Heart%20Disease%20Model/Figure_2.png) |
+**Heart Disease Presence**
 
-<br>
+<img src="./Task%203%20-%20Heart%20Disease%20Prediction/Figure_1.png" width="800">
 
-| Confusion Matrix | ROC Curve | Feature Importance |
-| :---: | :---: | :---: |
-| ![Confusion Matrix](./Task%203%20-%20Heart%20Disease%20Model/Figure_3.png) | ![ROC Curve](./Task%203%20-%20Heart%20Disease%20Model/Figure_4.png) | ![Feature Importance](./Task%203%20-%20Heart%20Disease%20Model/Figure_5.png) |
+**Correlation Heatmap**
+
+<img src="./Task%203%20-%20Heart%20Disease%20Prediction/Figure_2.png" width="800">
+
+**Confusion Matrix**
+
+<img src="./Task%203%20-%20Heart%20Disease%20Prediction/Figure_3.png" width="800">
+
+**ROC Curve**
+
+<img src="./Task%203%20-%20Heart%20Disease%20Prediction/Figure_4.png" width="800">
+
+**Feature Importance**
+
+<img src="./Task%203%20-%20Heart%20Disease%20Prediction/Figure_5.png" width="800">
